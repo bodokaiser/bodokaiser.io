@@ -20,3 +20,8 @@ body .lead {
   padding: 2rem;
   background: rgba(255, 255, 255, 0.8);
 }
+
+.btn-outline-secondary {
+  color: #373d42;
+  border-color: #373d42;
+}
